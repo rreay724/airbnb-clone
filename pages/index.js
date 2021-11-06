@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Header } from "../components/index";
+import { Header, Banner } from "../components/index";
 
 export default function Home() {
   return (
@@ -9,6 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
+      <Banner />
     </div>
   );
 }
