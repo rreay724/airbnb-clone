@@ -1,5 +1,6 @@
 export const footerText = [
   {
+    id: 1,
     title: "ABOUT",
     text: [
       "How Airbnb works",
@@ -11,6 +12,7 @@ export const footerText = [
   },
 
   {
+    id: 2,
     title: "COMMUNITY",
     text: [
       "Accessibility",
@@ -22,6 +24,7 @@ export const footerText = [
   },
 
   {
+    id: 3,
     title: "HOST",
     text: [
       "Host your home",
@@ -34,6 +37,7 @@ export const footerText = [
   },
 
   {
+    id: 4,
     title: "SUPPORT",
     text: [
       "Our COVID-19 Response",
