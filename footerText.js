@@ -1,5 +1,5 @@
-export const footerText = {
-  about: {
+export const footerText = [
+  {
     title: "ABOUT",
     text: [
       "How Airbnb works",
@@ -9,7 +9,8 @@ export const footerText = {
       "Airbnb Luxe",
     ],
   },
-  community: {
+
+  {
     title: "COMMUNITY",
     text: [
       "Accessibility",
@@ -19,7 +20,8 @@ export const footerText = {
       "Airbnb.org",
     ],
   },
-  host: {
+
+  {
     title: "HOST",
     text: [
       "Host your home",
@@ -30,7 +32,8 @@ export const footerText = {
       "Community Center",
     ],
   },
-  support: {
+
+  {
     title: "SUPPORT",
     text: [
       "Our COVID-19 Response",
@@ -40,4 +43,4 @@ export const footerText = {
       "Trust & Safety",
     ],
   },
-};
+];
